@@ -1,1 +1,2 @@
-web: play run --http.port=9000
+web: play target/start
+
